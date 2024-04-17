@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<SistemaSkills>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.itneki.NekiSkills.Application",
+            "projectName": "SistemaSkills",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
